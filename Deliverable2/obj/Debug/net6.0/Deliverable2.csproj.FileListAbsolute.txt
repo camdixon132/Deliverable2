@@ -1,0 +1,15 @@
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.deps.json
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.runtimeconfig.json
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.dll
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/bin/Debug/net6.0/Deliverable2.pdb
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.csproj.AssemblyReference.cache
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.AssemblyInfoInputs.cache
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.AssemblyInfo.cs
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.csproj.CoreCompileInputs.cache
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.dll
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/refint/Deliverable2.dll
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.pdb
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/Deliverable2.genruntimeconfig.cache
+/Users/camerondixon/Projects/Deliverable2/Deliverable2/obj/Debug/net6.0/ref/Deliverable2.dll
